@@ -10,7 +10,7 @@
   <ul>
     <li>🔭 I’m currently working as a Software Engineer at Informaniak the Ethical Cloud <img src="https://github.com/user-attachments/assets/809bcb01-aed9-4192-aea7-3c5010ab78d6" alt="swiss flag" width="15"></li>
     <li>🌱 I also study at Holberton School <img src="https://github.com/user-attachments/assets/4060b023-f44a-478b-a873-ca032a3cbf34" alt="french flag" width="15"> in Full-Stack specialization.</li>
-    <li>⏲️ I divide my time between 👩‍💻 and 🏃‍♀️🏐🏅.</li>
+    <li>⏲️ I divide my time between codngin and playing sport</li>
   </ul>
 </div>  
 
